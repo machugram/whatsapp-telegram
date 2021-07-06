@@ -1,5 +1,7 @@
 import telepot
-token = '1898707626:AAEcQpqYo4vp-D0KESDI-PzFRKyhaI0S3kM'
+import os
+from dotenv import load_dotenv
+load_dotenv('.env')
+token = os.getenv('TOKEN')
 TelegramBot = telepot.Bot(token)
 print (TelegramBot.getMe())
-
