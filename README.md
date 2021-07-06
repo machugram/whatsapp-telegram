@@ -10,3 +10,5 @@
 - https://www.quora.com/How-can-I-connect-a-WhatsApp-group-with-a-Telegram-Group-using-a-bot
 - https://github.com/rmed/wat-bridge
 - https://t.me/WhatAppStatus/19
+-https://khashtamov.com/en/how-to-create-a-telegram-bot-using-python/
+-https://www.freecodecamp.org/news/learn-to-build-your-first-bot-in-telegram-with-python-4c99526765e4/
