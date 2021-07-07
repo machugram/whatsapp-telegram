@@ -1,3 +1,4 @@
 wat-bridge
 venv
 .env
+.vscode
